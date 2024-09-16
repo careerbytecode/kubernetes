@@ -12,7 +12,7 @@ for more information - https://wa.me/32471408908
 
 ## Kubernetes Administration - Hands On
   
-Kubernetes Orchestration:
+
 🧑‍💻 Installation & Configuration: Set up our Kubernetes clusters, ready for action.
 
 🛠️ Namespaces, Pods & Containers: Dive into efficient resource allocation and container management.
