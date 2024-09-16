@@ -9,36 +9,22 @@ for more information - https://wa.me/32471408908
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 1- DevOps Tools - Hands On
-  - Medium - https://medium.com/@RajCloudX/devops-tools-installation-and-configuration-c8fbb53012d9
-  - Medium - https://medium.com/@RajCloudX/devops-tools-zero-to-hero-6bd799ab9fe7
-  - Github - https://github.com/rangarajbk/cloud-devops-engineer-training/tree/main/1-devops-tools
 
-## 2- Azure Terraform  Automation - Hands On
-  - Medium - https://medium.com/@RajCloudX/terraform-automation-in-azure-09f6ab82d0a3
-  - Github - https://github.com/rangarajbk/cloud-devops-engineer-training/tree/main/2-terraform_azure
+## Kubernetes Administration - Hands On
+  
+Kubernetes Orchestration:
+🧑‍💻 Installation & Configuration: Set up our Kubernetes clusters, ready for action.
 
-## 3- Ansible Automation - Hands On
-  - Medium - https://medium.com/@RajCloudX/ansible-a-6d9ea6f301f0
-  - Github - https://github.com/rangarajbk/cloud-devops-engineer-training/tree/main/3-ansible
+🛠️ Namespaces, Pods & Containers: Dive into efficient resource allocation and container management.
 
-## 4- Docker Administration - Hands On
-  - Medium - https://medium.com/@RajCloudX/docker-administration-4f004dd92a2f
-  - Github - https://github.com/rangarajbk/cloud-devops-engineer-training/tree/main/4-docker-admin
+🔗 Services: Managed service discovery and load balancing in a Kubernetes environment.
 
-## 5- Kubernetes Administration - Hands On
-  - Medium - https://medium.com/@RajCloudX/kubernetes-administration-16fb84251475
-  - Github - https://github.com/rangarajbk/cloud-devops-engineer-training/tree/main/5-kubernetes_admin
+📊 Kubernetes Architecture: From ETCD to kubelet, we explored how the entire internal process works!
 
+⚙️ Services & LoadBalancers: Seamless scaling and managing traffic in real-time.
 
-## 6- AZURE Cloud Administration - Hands On
-  - Medium - https://medium.com/@RajCloudX/azure-cloud-administration-d18482b891f8
-  - Github - https://github.com/rangarajbk/cloud-devops-engineer-training/tree/main/6-azure-cloud
+🔄 Deployments: Rolling Updates, Recreates, Blue-Green Deployment - all critical for ensuring smooth rollouts!
 
-## 7- AWS Cloud Administration - Hands On
-  - Medium - https://medium.com/@RajCloudX/aws-cloud-administration-685900dbc8b3
-  - Github - https://github.com/rangarajbk/cloud-devops-engineer-training/tree/main/7-aws-cloud
+🔥 Pods, Replica Sets, Daemonsets: Understanding resource management and ensuring high availability.
 
-## 8- GITHUB Administration - Hands On
-  - Medium - https://medium.com/@RajCloudX/github-administration-973c2dfdec77
-  - Github - https://github.com/rangarajbk/cloud-devops-engineer-training/tree/main/8-github
+🚀 Init Containers: Prep your environment before the main container starts for better application workflows!
