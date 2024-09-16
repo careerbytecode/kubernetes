@@ -1,7 +1,3 @@
-# Cloud DevOps Engineer Free Handson Training
-
-## Complete Handson Free Training to help Job Seekers
-
 # Join whatsapp group to get more updates - https://chat.whatsapp.com/LsWNqQfeqdp6qtHnqsrj8T
 
 
