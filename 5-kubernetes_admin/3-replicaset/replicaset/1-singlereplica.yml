@@ -5,7 +5,7 @@ metadata:
   name: nginx-replica
   namespace: twitter
 spec:
-  replicas: 1
+  replicas: 4
   minReadySeconds: 10
   selector:
     matchLabels:
