@@ -7,22 +7,23 @@ Without Ingress, you'd need to expose each service in your Kubernetes cluster in
 Ingress simplifies this by allowing you to manage all your incoming requests in a centralized way. It handles routing traffic to the right services based on the URL path or hostnames, supports TLS/SSL for secure communication, and even load-balances requests.
 
 Example to Understand
-Let’s say you run an online store. Your store has three services:
+- Let’s say you run an online store. Your store has three services:
 
 Frontend: The customer-facing website.
 API: The backend service for processing orders.
 Admin Panel: A dashboard for managing the store.
 With Ingress, you can configure:
 
-www.yourstore.com → Routes to Frontend
-www.yourstore.com/api → Routes to API
-admin.yourstore.com → Routes to Admin Panel
+- www.yourstore.com → Routes to Frontend
+- www.yourstore.com/api → Routes to API
+- admin.yourstore.com → Routes to Admin Panel
+
 Instead of opening three separate entry points, one Ingress rule takes care of all the traffic routing.
 
 In a nutshell:
-Without Ingress: Chaos! Expose services individually, higher costs, and more complexity.
-With Ingress: Controlled, secure, and efficient traffic management with just one entry point.
-This makes your Kubernetes cluster simpler, cheaper, and more scalable.
+- Without Ingress: Chaos! Expose services individually, higher costs, and more complexity.
+- With Ingress: Controlled, secure, and efficient traffic management with just one entry point.
+- This makes your Kubernetes cluster simpler, cheaper, and more scalable.
 
 ### Prerequisite
 - Kubernetes Cluster up and running with master and node or GKE or EKS or any other type of k8s setup.
